@@ -3,5 +3,5 @@
 탐욕 알고리즘 핵심은 주어진 문제 조건에 대해 적절한 정렬 방식을 골라 처리하는 것(오름차순, 내림차순, Priority Queue, Heap Queue)
 ## String
 문자열의 경우 입력 방법에 따라 달라진다, 구현 문제와 동일한 시선으로 접근
-## Implemantation
+## Implementation
 구현 문제의 경우 문제의 KeyWord를 잘 찾는것과 구현 중 계산 실수를 줄이는게 가장 큰 핵심

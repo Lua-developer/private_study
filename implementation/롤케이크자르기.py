@@ -1,3 +1,4 @@
+# 정답이긴 한데 시간초과 난 코드
 def solution(topping):
     answer = 0
     for index in range(1, len(topping)) :
